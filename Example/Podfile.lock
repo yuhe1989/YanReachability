@@ -1,0 +1,16 @@
+PODS:
+  - YanReachability (0.1.0)
+
+DEPENDENCIES:
+  - YanReachability (from `../`)
+
+EXTERNAL SOURCES:
+  YanReachability:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YanReachability: a1378adf82d5d250b98e025b6c1a8ab4697936b7
+
+PODFILE CHECKSUM: 9f9366553f2204bba9a3a548af05b1f398102c69
+
+COCOAPODS: 1.8.4

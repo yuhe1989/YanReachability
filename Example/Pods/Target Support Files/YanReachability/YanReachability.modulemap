@@ -1,0 +1,6 @@
+framework module YanReachability {
+  umbrella header "YanReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}

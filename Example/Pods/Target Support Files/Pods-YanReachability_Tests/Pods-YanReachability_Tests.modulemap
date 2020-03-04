@@ -1,0 +1,6 @@
+framework module Pods_YanReachability_Tests {
+  umbrella header "Pods-YanReachability_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
